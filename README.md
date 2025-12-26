@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://academic-codex.github.io/SME0610-Programacao-Matematica">
-    <img src=".github/readme/hero.svg?v=2025-12-26T03:18:52.002926Z" width="100%" alt="Access the course website" />
+    <img src=".github/readme/hero.svg?v=2025-12-26T03:20:36.931033Z" width="100%" alt="Access the course website" />
   </a>
 </p>
 
