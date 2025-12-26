@@ -1,17 +1,12 @@
-REPO_TAGLINE: Quantum simulation • electronic structure • many-body systems
-
+REPO_TAGLINE: Optimization • modeling • algorithms for decision-making
 ASSETS_DIR: .github/readme
-
 CTA_TEXT: Access the full course website
-THEME: library
+THEME: peace
+SITE_URL: https://academic-codex.github.io/SME0610-Programacao-Matematica
 
-SITE_URL: https://academic-codex.github.io/PGF5002-Mecanica-Quantica-II
-
-BG_1: "#000000"
-BG_2: "#ffffff"
-
-TEXT_MAIN: "#fff000"
-TEXT_MUTED: "#303030"
-ACCENT: "#fff000"
-
-CARD_RADIUS: "5"
+BG_1: "#071A12"
+BG_2: "#123D2E"
+TEXT_MAIN: "#E9FFF6"
+TEXT_MUTED: "#BCE7D6"
+ACCENT: "#10B981"
+CARD_RADIUS: "18"
